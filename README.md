@@ -2,7 +2,7 @@
 Antonio Montilla
 Portfolio with recent working projects
 
-# Project 1: A model for fraud detection in card transactions
+# [Project 1: A model for fraud detection in card transactions](https://github.com/antomontilla/fraud_detection_VESPA)
 * This project tries to develop models that could allow predicting whether a transaction is fraudulent or not, through the analysis and manipulation of a database that contains information on 590,540 transactions carried out online through the Vesta platform. 
 * The project evaluates the most relevant variables to predict the veracity of a transaction, builds models and selects the one that best fits the data.
 * As a general conclusion, it was identified that the classification algorithms of XGBClassifier, GradientBoostingClassifier and Random Forest are the ones that best fit the data, giving rise to a deeper development of this type of models in future works. 
